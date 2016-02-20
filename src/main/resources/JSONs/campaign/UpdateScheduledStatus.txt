@@ -1,0 +1,20 @@
+{
+  "notificationTitle": "GF exit prof 5",
+  "endDate": "2014-08-19 15:00",
+  "enabled": true,
+  "promotionTitle": "promo for gf exit prof 5",
+  "promotionDuration": 60,
+  "promotionMessageType": "EDITOR",
+  "id": 23,
+  "promotionMessage": "<p>promo gf exit prof 5</p>",
+  "campaignName": "GF Exit prof 5",
+  "notificationMessage": "gf exit prof 5",
+  "throttleInterval": 60,
+  "campaignStores": ["hnoe"],
+  "startDate": "2014-08-18 15:15",
+  "campaignType": "GEOFENCE_EXIT",
+  "messageMetadata": {
+
+  },
+  "profiles": [5]
+}

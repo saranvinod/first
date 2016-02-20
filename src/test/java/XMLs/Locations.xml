@@ -1,0 +1,59 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Campaign Test Suite"  verbose="1">
+    <parameter name="url" value="https://qabrand.console.stage.digby.com/v1/location/" />
+    <!--    <test name="Create Broadcast Campaign">
+            <parameter name="filePath" value="/Users/vinodkumar/Github/localpoint-api/src/main/resources/JSONs/campaign/CreateBC.txt" />
+            <classes>
+                <class name="com.phunware.localpoint.api_testsuites.Campaigns" />
+                    <methods>
+                      <include name="verifyCreateCampaign" />
+                    </methods>
+            </classes>
+        </test>-->
+    <!--
+        <test name="Create StoreAnnouncement Campaign">
+            <parameter name="filePath" value="/Users/vinodkumar/Github/localpoint-api/src/main/resources/JSONs/campaign/CreateSA.txt" />
+            <classes>
+                <class name="com.phunware.localpoint.api_testsuites.Campaigns" />
+                    <methods>
+                      <include name="verifyCreateCampaign" />
+                    </methods>
+            </classes>
+        </test>-->
+
+    <!--
+        <test name="Create CheckIn Campaign">
+            <parameter name="filePath" value="/Users/vinodkumar/Github/localpoint-api/src/main/resources/JSONs/campaign/CreateCheckIn.txt" />
+            <classes>
+                <class name="com.phunware.localpoint.api_testsuites.Campaigns" />
+                    <methods>
+                      <include name="verifyCreateCampaign" />
+                    </methods>
+            </classes>
+        </test>
+    -->
+
+    <!--    <test name="Create GeoEntry Campaign">
+            <parameter name="filePath" value="/Users/vinodkumar/Github/localpoint-api/src/main/resources/JSONs/campaign/CreateGeoEntry.txt" />
+            <classes>
+                <class name="com.phunware.localpoint.api_testsuites.Campaigns" />
+                    <methods>
+                      <include name="verifyCreateCampaign" />
+                    </methods>
+            </classes>
+        </test>
+
+        <test name="Create GeoExit Campaign">
+            <parameter name="filePath" value="/Users/vinodkumar/Github/localpoint-api/src/main/resources/JSONs/campaign/CreateGeoExit.txt" />
+            <classes>
+                <class name="com.phunware.localpoint.api_testsuites.Campaigns" />
+                    <methods>
+                      <include name="verifyCreateCampaign" />
+                    </methods>
+            </classes>
+        </test>-->
+
+
+</suite>

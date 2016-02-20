@@ -1,0 +1,26 @@
+
+{
+    "campaignName": "Potion Sale!",
+    "campaignStores":
+    [
+     "sears_8"
+    ],
+    "campaignType": "GEOFENCE_ENTRY",
+    "description": "new potions entry campaign",
+    "enabled": true,
+    "endDate": "2016-12-31 21:59",
+    "messageMetadata":
+    {
+        "image": "new_potion_sale_1.jpg",
+        "link": "beedlesshops.com/potion_coupon_1"
+    },
+    "notificationMessage": "Ohhh, valued customer! We have new potions. Look!",
+    "notificationTitle": "Welcome!",
+    "profiles": [],
+    "promotionExpirationDate": "2016-12-31 21:59",
+    "promotionMessage": "10% off total purchase!",
+    "promotionMessageType": "EDITOR",
+    "promotionTitle": "Enjoy Diamond Member Savings",
+    "startDate": "2016-12-01 00:00",
+    "throttleInterval": 60
+}

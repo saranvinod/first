@@ -1,0 +1,22 @@
+{
+    "campaignName": "Flash sale on arrows!",
+    "campaignType": "BROADCAST",
+    "description": "flash sale announcement campaign",
+    "enabled": true,
+    "endDate": "2016-12-31 21:59",
+    "messageMetadata":
+    {
+        "image": "flash_sale_arrows_1.jpg",
+        "link": "beedlesshops.com/arrows"
+    },
+    "notificationMessage": "Ohhh, valued customer! Less rupees to pay for arrows!",
+    "notificationTitle": "Flash sale on arrows!",
+    "profiles": [],
+    "promotionDuration": 390,
+    "promotionMessage": "Enjoy snacks, pick up coupons and play games to win merchandise!",
+    "promotionMessageType": "EDITOR",
+    "promotionTitle": "At least 10% off on arrows!",
+    "repeatFrequency": 0,
+    "startDate": "2016-12-18 00:00",
+    "targetTimeZone": "America/Chicago"
+}

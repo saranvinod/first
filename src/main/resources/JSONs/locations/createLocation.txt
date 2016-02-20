@@ -1,0 +1,29 @@
+{
+    "storeName": "Beedle's Air Shop",
+    "storeCode": "BS1",
+    "allowsCheckin": true,
+    "address1": "123 Rail map",
+    "address2": "Suite 456",
+    "city": "Austin",
+    "state":"TX",
+    "zip": "78757",
+    "country": "usa",
+    "timeZone": "America/Chicago",
+    "ssid": "Rupees_3",
+    "bssid": "b5:8f:12:23:8d:a2",
+    "enabled" : true,
+    "geoFence":
+    {
+        "radius": 300,
+        "center":
+        {
+            "latitude": 30.24270,
+            "longitude": -97.79853
+        }
+    },
+    "tags":
+    [
+        "mobile_shop",
+        "bomb_bag_available"
+    ]
+}

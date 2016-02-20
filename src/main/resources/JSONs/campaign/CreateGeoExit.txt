@@ -1,0 +1,25 @@
+{
+    "campaignName": "Customer Survey!",
+    "campaignStores":
+    [
+     "sears_8"
+    ],
+    "campaignType": "GEOFENCE_EXIT",
+    "description": "customer survey exit campaign",
+    "enabled": true,
+    "endDate": "2016-12-31 21:59",
+    "messageMetadata":
+    {
+        "image": "customer_survey_1.jpg",
+        "link": "beedlesshops.com/customer_survey"
+    },
+    "notificationMessage": "Ohhh, valued customer! We need your feedback!",
+    "notificationTitle": "Welcome!",
+    "profiles": [],
+    "promotionExpirationDate": "2016-12-31 21:59",
+    "promotionMessage": "Complete the survey for a free heart container!",
+    "promotionMessageType": "EDITOR",
+    "promotionTitle": "Free Heart Container",
+    "startDate": "2016-12-01 00:00",
+    "throttleInterval": 60
+}

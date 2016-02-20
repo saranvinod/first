@@ -1,0 +1,23 @@
+{
+    "id": 21,
+    "campaignName": "Checkin Prize Giveaway",
+    "campaignStores":
+    [
+     "sears_8"
+    ],
+    "campaignType": "GEOFENCE_ENTRY",
+    "description": "new potions entry campaign",
+    "enabled": false,
+    "endDate": "2015-12-31 21:59",
+    "messageMetadata":
+    {
+        "image": "checkin_prize_1.jpg"
+    },
+    "profiles": [],
+    "promotionDuration": 120,
+    "promotionMessage": "Ohhh valued customer! Check into the store and win a prize!",
+    "promotionMessageType": "EDITOR",
+    "promotionTitle": "Check In, Free Prize",
+    "startDate": "2015-01-01 00:00"
+}
+Response
